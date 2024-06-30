@@ -121,7 +121,7 @@ function solve() {
 
             liElement.remove();
 
-            //[Buy] button click
+            //[Buy] button click event
             buyButton.addEventListener('click', onBuy);
 
             function onBuy() {
